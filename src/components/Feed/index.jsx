@@ -2,13 +2,12 @@ import React from 'react';
 
 import { Container } from './styles';
 
-export const Home = () => {
+export const Feed = () => {
   return(
     <Container>
-      <h1>Lets Build the facebook clone!</h1>
+      
     </Container>
-  )
+  );
 };
 
-
-export default Home;
+export default Feed;
